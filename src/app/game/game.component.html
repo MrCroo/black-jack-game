@@ -1,0 +1,56 @@
+<div class="base">
+  <div class="players">
+    <div class="playersPosition">
+      <div class="playerData">
+        Dealer: {{ opponentsHand }} ||||
+        <div>
+          <img
+            *ngFor="let card of opponentCards"
+            src="./../assets/{{ card.img }}"
+            alt="some img"
+            class="img"
+          />
+        </div>
+      </div>
+      <div class="playerData">
+        Player: {{ playersHand }} ||||
+        <div>
+          <img
+            *ngFor="let card of playerCards"
+            src="./../assets/{{ card.img }}"
+            alt="some img"
+            class="img"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="money">Money: {{ playerMoney }}$</div>
+  <div class="bet">
+    <div>Bet: {{ betedMoney }}</div>
+    <button type="button" (click)="addBet()">+</button>
+    <button type="button" (click)="decreeseBet()">-</button>
+    <button type="button" (click)="addBetOneK()">+1k</button>
+    <button type="button" (click)="addBetTenK()">+10k</button>
+    <button type="button" (click)="resetBetMoney()">Reset Bet</button>
+  </div>
+  <div class="status">
+    <div [innerHTML]="status()"></div>
+    <div [innerHTML]="lookHand()"></div>
+  </div>
+  <div>
+    <button
+      type="button"
+      (click)="onClick()"
+      class="buttonHit"
+      [disabled]="end"
+    >
+      Hit
+    </button>
+    <button type="button" (click)="onStay()" class="buttonHit" [disabled]="end">
+      Stay
+    </button>
+  </div>
+  <button type="button" (click)="onReset()" class="buttonRes">Reset</button>
+  <div class="version">v1.0.0</div>
+</div>

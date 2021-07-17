@@ -1,0 +1,70 @@
+.buttonHit {
+  text-align: center;
+  border: 1px solid grey;
+  width: 3em;
+  margin: 1em;
+  color: white;
+  background-color: rgba(53, 156, 66, 0.63);
+}
+
+.buttonRes {
+  text-align: center;
+  border: 1px solid grey;
+  width: 4em;
+  margin: 1em;
+  color: darkslategrey;
+  background-color: #c2c2c2;
+}
+
+.base {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.players {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: darkgreen;
+  border: 5px solid rgb(47, 79, 50);
+}
+
+.bet {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 20em;
+  height: 1.5em;
+}
+
+.status {
+  display: flex;
+  margin: 2em;
+}
+
+.money {
+  margin: 2em;
+}
+
+.img {
+  width: 20%;
+  height: 5%;
+}
+
+.playerData {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.playersPosition {
+  width: 30%;
+}
+
+.version {
+  width: 5%;
+}

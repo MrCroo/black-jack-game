@@ -1,0 +1,262 @@
+[
+  {
+    "name": "twoC",
+    "value": 2,
+    "img": "2C.jpg"
+  },
+  {
+    "name": "twoD",
+    "value": 2,
+    "img": "2D.jpg"
+  },
+  {
+    "name": "twoH",
+    "value": 2,
+    "img": "2H.jpg"
+  },
+  {
+    "name": "twoS",
+    "value": 2,
+    "img": "2S.jpg"
+  },
+  {
+    "name": "threeC",
+    "value": 3,
+    "img": "3C.jpg"
+  },
+  {
+    "name": "threeD",
+    "value": 3,
+    "img": "3D.jpg"
+  },
+  {
+    "name": "threeH",
+    "value": 3,
+    "img": "3H.jpg"
+  },
+  {
+    "name": "threeS",
+    "value": 3,
+    "img": "3S.jpg"
+  },
+  {
+    "name": "fourC",
+    "value": 4,
+    "img": "4C.jpg"
+  },
+  {
+    "name": "fourD",
+    "value": 4,
+    "img": "4D.jpg"
+  },
+  {
+    "name": "fourH",
+    "value": 4,
+    "img": "4H.jpg"
+  },
+  {
+    "name": "fourS",
+    "value": 4,
+    "img": "4S.jpg"
+  },
+  {
+    "name": "fiveC",
+    "value": 5,
+    "img": "5C.jpg"
+  },
+  {
+    "name": "fiveD",
+    "value": 5,
+    "img": "5D.jpg"
+  },
+  {
+    "name": "fiveH",
+    "value": 5,
+    "img": "5H.jpg"
+  },
+  {
+    "name": "fiveS",
+    "value": 5,
+    "img": "5S.jpg"
+  },
+  {
+    "name": "sixC",
+    "value": 6,
+    "img": "6C.jpg"
+  },
+  {
+    "name": "sixD",
+    "value": 6,
+    "img": "6D.jpg"
+  },
+  {
+    "name": "sixH",
+    "value": 6,
+    "img": "6H.jpg"
+  },
+  {
+    "name": "sixS",
+    "value": 6,
+    "img": "6S.jpg"
+  },
+  {
+    "name": "sevenC",
+    "value": 7,
+    "img": "7C.jpg"
+  },
+  {
+    "name": "sevenD",
+    "value": 7,
+    "img": "7D.jpg"
+  },
+  {
+    "name": "sevenH",
+    "value": 7,
+    "img": "7H.jpg"
+  },
+  {
+    "name": "sevenS",
+    "value": 7,
+    "img": "7S.jpg"
+  },
+  {
+    "name": "eightC",
+    "value": 8,
+    "img": "8C.jpg"
+  },
+  {
+    "name": "eightD",
+    "value": 8,
+    "img": "8D.jpg"
+  },
+  {
+    "name": "eightH",
+    "value": 8,
+    "img": "8H.jpg"
+  },
+  {
+    "name": "eightS",
+    "value": 8,
+    "img": "8S.jpg"
+  },
+  {
+    "name": "nineC",
+    "value": 9,
+    "img": "9C.jpg"
+  },
+  {
+    "name": "nineD",
+    "value": 9,
+    "img": "9D.jpg"
+  },
+  {
+    "name": "nineH",
+    "value": 9,
+    "img": "9H.jpg"
+  },
+  {
+    "name": "nineS",
+    "value": 9,
+    "img": "9S.jpg"
+  },
+  {
+    "name": "tenC",
+    "value": 10,
+    "img": "10C.jpg"
+  },
+  {
+    "name": "tenD",
+    "value": 10,
+    "img": "10D.jpg"
+  },
+  {
+    "name": "tenH",
+    "value": 10,
+    "img": "10H.jpg"
+  },
+  {
+    "name": "tenS",
+    "value": 10,
+    "img": "10S.jpg"
+  },
+  {
+    "name": "AC",
+    "value": 11,
+    "img": "AC.jpg"
+  },
+  {
+    "name": "AD",
+    "value": 11,
+    "img": "AD.jpg"
+  },
+  {
+    "name": "AH",
+    "value": 11,
+    "img": "AH.jpg"
+  },
+  {
+    "name": "AS",
+    "value": 11,
+    "img": "AS.jpg"
+  },
+  {
+    "name": "JC",
+    "value": 10,
+    "img": "JC.jpg"
+  },
+  {
+    "name": "JD",
+    "value": 10,
+    "img": "JD.jpg"
+  },
+  {
+    "name": "JH",
+    "value": 10,
+    "img": "JH.jpg"
+  },
+  {
+    "name": "JS",
+    "value": 10,
+    "img": "JS.jpg"
+  },
+  {
+    "name": "KC",
+    "value": 10,
+    "img": "KC.jpg"
+  },
+  {
+    "name": "KD",
+    "value": 10,
+    "img": "KD.jpg"
+  },
+  {
+    "name": "KH",
+    "value": 10,
+    "img": "KH.jpg"
+  },
+  {
+    "name": "KS",
+    "value": 10,
+    "img": "KS.jpg"
+  },
+  {
+    "name": "QC",
+    "value": 10,
+    "img": "QC.jpg"
+  },
+  {
+    "name": "QD",
+    "value": 10,
+    "img": "QD.jpg"
+  },
+  {
+    "name": "QH",
+    "value": 10,
+    "img": "QH.jpg"
+  },
+  {
+    "name": "QS",
+    "value": 10,
+    "img": "QS.jpg"
+  }
+]
